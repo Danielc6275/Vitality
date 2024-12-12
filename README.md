@@ -78,7 +78,7 @@ By using the Prettier extension in VS Code, you can significantly improve the qu
 
 ## Next steps:
 
--Follow the coding instructions in [Mosh's video] (https://www.youtube.com/watch?v=SqcY0GlETPk)
+-Follow the coding instructions in [Mosh's video](https://www.youtube.com/watch?v=SqcY0GlETPk)
 
 
 
