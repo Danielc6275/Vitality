@@ -76,6 +76,10 @@ Increased productivity: Automating formatting saves time and effort.
 Reduced cognitive load: You don't have to worry about formatting details, allowing you to focus on the logic of your code.
 By using the Prettier extension in VS Code, you can significantly improve the quality and consistency of your code while also increasing your productivity.
 
+## Next steps:
+
+-Follow the coding instructions in [Mosh's video] (https://www.youtube.com/watch?v=SqcY0GlETPk)
+
 
 
 
