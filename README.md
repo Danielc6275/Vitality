@@ -52,30 +52,6 @@ Find the settings dialogue in VS Code and type **format on save**
 
 ## Prettier description
 
-The Prettier extension for Visual Studio Code works by:
-
-Parsing your code: Prettier analyzes your code (JavaScript, TypeScript, CSS, etc.) to understand its structure.
-
-Re-printing with its own rules: Instead of modifying your existing code, Prettier parses it and then re-prints it from scratch. This ensures consistent formatting across your codebase.
-
-Enforcing a consistent style: Prettier has its own set of rules for formatting, such as:
-
-Maximum line length: Code is wrapped to fit within a specified line length.
-Indentation: Consistent use of spaces or tabs for indentation.
-Single vs. double quotes: Consistent use of single or double quotes for strings.
-Semicolon usage: Consistent use or omission of semicolons.
-Integration with VS Code: The extension integrates with VS Code's formatting features, allowing you to:
-
-Format on save: Automatically format your code whenever you save a file.
-Format on demand: Manually format your code using keyboard shortcuts or commands.
-Key benefits of using Prettier:
-
-Consistent code style: Eliminates arguments about code style within a team.
-Improved readability: Consistent formatting makes code easier to read and understand.
-Increased productivity: Automating formatting saves time and effort.
-Reduced cognitive load: You don't have to worry about formatting details, allowing you to focus on the logic of your code.
-By using the Prettier extension in VS Code, you can significantly improve the quality and consistency of your code while also increasing your productivity.
-
 ## Next steps:
 
 -Follow the coding instructions in [Mosh's video](https://www.youtube.com/watch?v=SqcY0GlETPk)
