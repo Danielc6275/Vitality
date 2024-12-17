@@ -1,7 +1,7 @@
 # React-app
 
 ## Prerequisites:
-General knowledge of HTML, CSS and JavaScript.
+General knowledge of HTML, CSS and JavaScript as well as the react library and vite.
 
 TypeScript: helps catch JSX errors.
 
