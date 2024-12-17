@@ -1,4 +1,4 @@
-# Vitality
+# React-app
 
 ## Prerequisites:
 General knowledge of HTML, CSS and JavaScript.
